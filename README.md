@@ -24,4 +24,4 @@ Welcome to my GitHub! I'm a tech enthusiast who loves building tools, tinkering 
 
 ---
 
-[![Teravibe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Teravibes)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Teravibe's Github Stats" src="https://github-readme-stats-nikos-projects-c743d99d.vercel.app/api?username=Teravibes&show_icons=truehide_border=true" />
